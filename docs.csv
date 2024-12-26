@@ -1,7 +1,4 @@
-town,﻿area,price
-chittoor,100,200
-chittoor,200,300
-kadapa,300,400
-kadapa,400,500
-kalikiri,120,600
-kalikiri,150,800
+company,job,degree
+tcs,developer,cse
+ibm,frontend,ece
+google,backend,it
