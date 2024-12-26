@@ -1,5 +1,7 @@
-﻿area,price
-100,200
-200,300
-300,400
-400,
+town,﻿area,price
+chittoor,100,200
+chittoor,200,300
+kadapa,300,400
+kadapa,400,500
+kalikir,120,600
+kalikiri,150,800
